@@ -26,7 +26,8 @@ Para fabricantes de sillones y almohadones. Alto volumen.
 Tension: trifasica por defecto. Si el cliente no tiene instalacion trifasica en el taller, existe una version monofasica con un costo adicional de $600.000. Nunca perder una venta por este tema.
 Presion: maximo 4 bares. Compresor: 50 litros.
 Tolva: 15kg o 25kg. Materiales: vellon siliconado, copos, mezcla.
-Retorno automatico del material sobrante. Balanza integrada para llenado exacto por peso.
+Retorno automatico del material sobrante — mantiene el espacio de trabajo limpio y recupera el material.
+Balanza integrada — el llenado se controla por peso exacto, no depende del ojo del operario.
 Tablero con componentes Schneider, neumatica Micro, pintura termoconvertible no se oxida.
 Multiplica la produccion al menos x10. Un almohadon en menos de 30 segundos.
 Espacio minimo: 3x3 metros. Garantia: 12 meses.
@@ -38,10 +39,17 @@ Para camas para mascotas y talleres en crecimiento.
 Tension: trifasica por defecto. Version monofasica disponible con costo adicional de $600.000.
 Presion: hasta 4 bares. Compresor: 50 litros.
 Tolva: 15kg o 25kg. Materiales: telgopor, vellon, copos y mezcla.
-SIN retorno. SIN balanza. Llenado por volumen. Garantia: 12 meses.
-Escalable a la R23 cuando el volumen lo justifique.
+SIN retorno automatico — el material sobrante no vuelve a la tolva.
+SIN balanza — el llenado lo controla el operario a ojo.
+Misma capacidad y potencia de produccion que la R23. Garantia: 12 meses.
+Escalable a la R23 cuando el volumen o la necesidad de precision lo justifique.
 
-Diferencia R23 vs LT: la R23 tiene balanza y retorno automatico. La LT no tiene ninguna de las dos.
+DIFERENCIA R23 vs R23 LT — MUY IMPORTANTE:
+Las dos maquinas tienen la misma capacidad y potencia de produccion. No es que una produce mas que la otra.
+La diferencia es en el control del proceso y la limpieza del espacio de trabajo:
+R23: tiene balanza (llenado exacto por peso, no depende del operario) y retorno automatico (el material sobrante vuelve a la tolva, mantiene el espacio limpio).
+R23 LT: no tiene balanza ni retorno. El llenado lo controla el operario a ojo y el material sobrante queda en el espacio de trabajo.
+Para quien quiere mayor precision y orden: R23. Para quien empieza o no necesita ese nivel de control: R23 LT.
 
 ABRA 25 — $13.000.000 ARS IVA incluido. En desarrollo, proximo lanzamiento.
 Abridora de vellon para pymes. Resuelve el costo de flete del interior.
